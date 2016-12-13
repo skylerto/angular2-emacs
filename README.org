@@ -1,7 +1,12 @@
 * Angular2 Utilities
 
   Some angular2 utilties for Emacs
-  
+** Install
+
+#+BEGIN_SRC 
+$ git clone https://github.com/skylerto/angular2-emacs.git ~/.emacs.d/plugins/angular2
+$ echo '(load-file "~/.emacs.d/plugins/angular2/angular2.el")' >> ~/.emacs.d/init.el
+#+END_SRC
 ** USAGE
 *** Jump to Component
     
