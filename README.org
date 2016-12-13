@@ -1,12 +1,12 @@
 * Angular2 Utilities
 
   Some angular2 utilties for Emacs
-
+  
 ** USAGE
 *** Jump to Component
     
-   To jump to the template of the current buffer, `C-c C-c` (by default the scope is global).
+   To jump to the template of the current buffer, =C-c C-c= (by default the scope is global).
 
 *** Jump to Template
 
-    To jump to the component in the current buffer's template, `C-c C-t` (by default the scope is global).
+    To jump to the component in the current buffer's template, =C-c C-t= (by default the scope is global).
